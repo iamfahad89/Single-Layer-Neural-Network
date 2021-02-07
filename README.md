@@ -14,4 +14,4 @@ test_single_layer_nn.py::test_predict PASSED                       [ 75%]
 test_single_layer_nn.py::test_train_and_error_calculation PASSED   [100%]
 
  
-======================== 4 passed in 0.04 seconds ==========================================
+========= 4 passed in 0.04 seconds =============
